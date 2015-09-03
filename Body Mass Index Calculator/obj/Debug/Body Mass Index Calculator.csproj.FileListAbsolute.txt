@@ -1,0 +1,6 @@
+D:\My Visual Studio Projects\Body Mass Index Calculator\Body Mass Index Calculator\bin\Debug\Body Mass Index Calculator.exe.config
+D:\My Visual Studio Projects\Body Mass Index Calculator\Body Mass Index Calculator\bin\Debug\Body Mass Index Calculator.exe
+D:\My Visual Studio Projects\Body Mass Index Calculator\Body Mass Index Calculator\bin\Debug\Body Mass Index Calculator.pdb
+D:\My Visual Studio Projects\Body Mass Index Calculator\Body Mass Index Calculator\obj\Debug\Body Mass Index Calculator.csprojResolveAssemblyReference.cache
+D:\My Visual Studio Projects\Body Mass Index Calculator\Body Mass Index Calculator\obj\Debug\Body Mass Index Calculator.exe
+D:\My Visual Studio Projects\Body Mass Index Calculator\Body Mass Index Calculator\obj\Debug\Body Mass Index Calculator.pdb
