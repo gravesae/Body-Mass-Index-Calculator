@@ -3,6 +3,8 @@
 
 using System;
 
+//Graded 10/10 
+
 public class BodyMassIndex
 {
     public static void Main(string[] args)
